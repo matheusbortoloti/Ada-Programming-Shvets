@@ -1,3 +1,12 @@
+
+-- ---------------------------------------
+-- Chapter 02 - Exercise 01
+-- Matheus Bortoloti Dias
+-- 13.05.2021
+-- Print some text from different type 
+-- variables
+-- ----------------------------------------
+
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Float_Text_IO;
 
