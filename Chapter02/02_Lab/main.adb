@@ -1,3 +1,11 @@
+
+-- ---------------------------------------
+-- Chapter 01 - Exercise 01
+-- Matheus Bortoloti Dias
+-- 13.05.2021
+-- Implements the XOR logic with only
+-- 'AND' and 'OR' operators
+-- ----------------------------------------
 with Ada.Text_IO; use Ada.Text_IO;
 
 procedure Main is
